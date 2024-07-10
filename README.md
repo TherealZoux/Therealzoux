@@ -78,8 +78,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/therealzoux/therealzoux/output/snake.svg" alt="Snake animation" />
 
 ###
