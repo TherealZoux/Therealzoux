@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello, I'm Moaz💫 :
 🧑‍💻 I’m currently working on a SaaS project and doing freelance work  <br>🤝 I’m looking to collaborate on open-source frontend projects  <br>🧠 I’m currently learning backend development and advanced JavaScript  <br>💬 Ask me about Vue.js, TailwindCSS, or how to get started in frontend development  <br>⚡ Fun fact: I'm using Arch btw<br>
 
 
