@@ -1,5 +1,5 @@
 # Hello, I'm Moaz💫 :
-🧑‍💻 I’m currently working on a ERP project as a remote work  <br>🤝 I'm using Arch btw<br>
+🧑‍💻 I’m currently working on an ERP project as a remote work  <br>🤝 I'm using Arch btw<br>
 
 
 ## 🌐 Socials:
