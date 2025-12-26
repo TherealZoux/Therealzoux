@@ -1,5 +1,8 @@
-# Hello, I'm Moaz💫 :
-🧑‍💻 I’m currently working on an ERP project as a remote work  <br>🤝 I'm using Arch btw<br>
+# Hi 👋 I’m Moaz (therealzoux)  
+Frontend Developer focused on React/Vue/Typescript  
+🌱 Currently learning Next.js + laravel  
+📫 How to reach me: moazmohamed.dev@gmail.com  
+<br>
 
 
 ## 🌐 Socials:
